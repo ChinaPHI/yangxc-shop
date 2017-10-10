@@ -27,7 +27,9 @@ var compiler = webpack(webpackConfig)
 var router = express.Router();
 var goodsList = require('../mock/goods.json');
 
+//对外暴露一个路由，然后当你访问的时候给你做点事情
 router.get("/goods", function(req, res, next) {
+    //res响应   //req请求
     res.json(goodsList);
 })
 

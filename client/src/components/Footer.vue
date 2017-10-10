@@ -115,7 +115,7 @@
                 <div class="col-contact">
                     <p class="phone">400-023-3005</p>
                     <p>周一至周日 8:00-18:00<br>（仅收市话费）</p>
-                    <a rel="nofollow" class="btn btn-line-primary btn-small">
+                    <a rel="nofollow" class="btn btn-line-primary btn-small" style="width:140px">
                         <i class="iconfont"></i> 24小时在线客服
                     </a>
                 </div>
@@ -133,9 +133,9 @@
                 </p>
             </div>
             <div class="info-links">
-                <a href="#"><img src="http://s1.mi.shudong.wang/zt/12052601/cnnicVerifyseal.png" alt="可信网站"></a>
+                <!--<a href="#"><img src="http://s1.mi.shudong.wang/zt/12052601/cnnicVerifyseal.png" alt="可信网站"></a>
                 <a href="#"><img src="http://s1.mi.shudong.wang/zt/12052601/szfwVerifyseal.gif" alt="诚信网站"></a>
-                <a href="#"><img src="http://s1.mi.shudong.wang/zt/12052601/save.jpg" alt="网上交易保障中心"></a>
+                <a href="#"><img src="http://s1.mi.shudong.wang/zt/12052601/save.jpg" alt="网上交易保障中心"></a>-->
             </div>
         </div>
     </div>
