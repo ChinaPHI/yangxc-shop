@@ -53,7 +53,7 @@
     <modal :mdShow="mdShow">
         <p slot="message">请先登陆，否则无法加入购物车</p>
         <div slot="btnGroup">
-            <a href="javascipt:;" class="btn-login" @click="mdShowCart = false">
+            <a href="javascipt:;" class="btn-login" @click="mdShow = false">
                 关闭</a>
         </div>
     </modal>
